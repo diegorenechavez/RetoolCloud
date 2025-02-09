@@ -14,6 +14,7 @@
     padding="8px 12px"
     type="main"
   >
+    <Text id="text1" value="Welcome" verticalAlign="center" />
     <Table
       id="table1"
       cellSelection="none"
