@@ -27,14 +27,14 @@ test.describe("User Management", () => {
     .getByPlaceholder("Search by name")
     .fill("eva", { timeout: 5000 });
 
-    page.pause()
+    // page.pause()
 
     const gridContainer = page.getByTestId("RetoolGrid:listView1");
-    await page.pause()
+    // await page.pause()
     await expect(gridContainer.getByRole("heading")).toHaveCount(2);
-    await page.pause()
+    // await page.pause()
     await expect(gridContainer).toContainText("Eva Noyce");
-    await page.pause()
+    // await page.pause()
     await expect(gridContainer).toContainText("Eva Lu Ator");
   });
 });
