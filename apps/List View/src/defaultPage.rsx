@@ -136,7 +136,7 @@ return data"
           _disclosedFields={{ array: ["color"] }}
           marginType="normal"
           style={{ ordered: [{ color: "rgb(23, 61, 36)" }] }}
-          value="### Users"
+          value="### User Management"
         />
         <TextInput
           id="nameFilter"
