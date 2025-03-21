@@ -166,6 +166,7 @@
         />
       </ToolbarButton>
     </Table>
+    <Button id="button2" text="Button" />
     <Button id="button1" text="Button" />
   </Frame>
 </Screen>
