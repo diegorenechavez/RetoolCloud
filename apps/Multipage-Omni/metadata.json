@@ -1,0 +1,21 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "6ad6968a-0010-11f0-b77a-73d1dab6b34f",
+  "appTemplate": {
+    "appThemeId": -1,
+    "pageCodeFolders": {
+      "object": {
+        "assetManagement": {
+          "array": []
+        },
+        "showPAGE": {
+          "array": []
+        }
+      }
+    },
+    "rootScreen": "assetManagement",
+    "version": "3.178.0",
+    "experimentalDataTabEnabled": true
+  }
+}
