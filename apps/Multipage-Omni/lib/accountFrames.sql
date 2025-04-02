@@ -1,0 +1,1 @@
+SELECT * FROM frames WHERE cpckey = {{ table1.selectedRow.cpc_key }}
