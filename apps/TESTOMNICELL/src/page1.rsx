@@ -15,6 +15,7 @@
     padding="8px 12px"
     type="main"
   >
+    <Button id="button3" text="Button" />
     <Table
       id="table1"
       cellSelection="none"
