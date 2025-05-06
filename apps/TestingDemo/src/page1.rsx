@@ -3,6 +3,7 @@
   _customShortcuts={[]}
   _hashParams={[]}
   _searchParams={[]}
+  browserTitle=""
   title="Page 1"
   urlSlug=""
 >
@@ -168,5 +169,6 @@
       </ToolbarButton>
     </Table>
     <TextInput id="table1SearchFilter" placeholder="Search in table" />
+    <Button id="button1" text="Button" />
   </Frame>
 </Screen>
