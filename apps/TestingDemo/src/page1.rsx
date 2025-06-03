@@ -170,5 +170,10 @@
     </Table>
     <TextInput id="table1SearchFilter" placeholder="Search in table" />
     <Button id="button1" text="Button" />
+    <Button
+      id="button2"
+      style={{ map: { background: "danger" } }}
+      text="Button"
+    />
   </Frame>
 </Screen>
