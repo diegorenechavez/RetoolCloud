@@ -6,6 +6,7 @@
   browserTitle=""
   title="Page 1"
   urlSlug=""
+  uuid="caafcb99-dd4a-418c-a7f9-7a488fc49594"
 >
   <Frame
     id="$main"
@@ -175,5 +176,6 @@
       style={{ map: { background: "danger" } }}
       text="Button"
     />
+    <Button id="button3" text="Button" />
   </Frame>
 </Screen>
