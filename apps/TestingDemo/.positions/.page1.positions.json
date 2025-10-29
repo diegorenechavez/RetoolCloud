@@ -1,12 +1,12 @@
 {
   "table1": {
-    "row": 3,
+    "row": 4,
     "col": 1,
     "height": 8,
     "width": 8
   },
   "table1SearchFilter": {
-    "row": 11.8,
+    "row": 12,
     "height": 0.2,
     "width": 4
   },
