@@ -5,6 +5,7 @@
   _searchParams={[]}
   title="Page 1"
   urlSlug=""
+  uuid="fd0773c0-866e-4f93-a8d4-3f5a9257ea3e"
 >
   <Frame
     id="$main"
