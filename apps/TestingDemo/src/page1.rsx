@@ -2,6 +2,7 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
@@ -16,6 +17,15 @@
     padding="8px 12px"
     type="main"
   >
+    <Text id="text1" value="Welcome" verticalAlign="center" />
+    <TextInput id="table1SearchFilter" placeholder="Search in table" />
+    <Button id="button1" text="Button" />
+    <Button
+      id="button2"
+      style={{ map: { background: "danger" } }}
+      text="Button"
+    />
+    <Button id="button3" text="Button" />
     <Table
       id="table1"
       cellSelection="none"
@@ -168,14 +178,5 @@
         />
       </ToolbarButton>
     </Table>
-    <Text id="text1" value="Welcome" verticalAlign="center" />
-    <TextInput id="table1SearchFilter" placeholder="Search in table" />
-    <Button id="button1" text="Button" />
-    <Button
-      id="button2"
-      style={{ map: { background: "danger" } }}
-      text="Button"
-    />
-    <Button id="button3" text="Button" />
   </Frame>
 </Screen>
