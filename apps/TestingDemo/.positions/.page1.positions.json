@@ -1,12 +1,29 @@
 {
-  "table1": {
-    "row": 4,
+
+  "button1": {
+    "row": 12.6,
+    "col": 4,
+    "height": 1,
+    "width": 2
+  },
+  "button2": {
+    "row": 13.4,
+    "col": 6,
+    "height": 1,
+    "width": 2
+  },
+  "button3": {
+    "row": 14.4,
     "col": 1,
+    "height": 1,
+    "width": 2
+  },
+  "table1": {
+    "row": 3.8,
     "height": 8,
     "width": 8
   },
   "table1SearchFilter": {
-    "row": 12,
     "height": 0.2,
     "width": 4
   },

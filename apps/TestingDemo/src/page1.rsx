@@ -3,9 +3,13 @@
   _customShortcuts={[]}
   _hashParams={[]}
   _searchParams={[]}
+  browserTitle=""
   title="Page 1"
   urlSlug=""
+
   uuid="fd0773c0-866e-4f93-a8d4-3f5a9257ea3e"
+
+
 >
   <Frame
     id="$main"
@@ -169,5 +173,12 @@
       </ToolbarButton>
     </Table>
     <TextInput id="table1SearchFilter" placeholder="Search in table" />
+    <Button id="button1" text="Button" />
+    <Button
+      id="button2"
+      style={{ map: { background: "danger" } }}
+      text="Button"
+    />
+    <Button id="button3" text="Button" />
   </Frame>
 </Screen>
