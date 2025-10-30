@@ -17,7 +17,7 @@
       label="Search"
       placeholder="Search in table"
     />
-    <Button id="button2" text="Button">
+
       <Event
         event="click"
         method="setHidden"
