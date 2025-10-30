@@ -1,0 +1,55 @@
+<App>
+  <Frame
+    id="$main"
+    enableFullBleed={false}
+    isHiddenOnDesktop={false}
+    isHiddenOnMobile={false}
+    padding="8px 12px"
+    sticky={null}
+    type="main"
+  >
+    <ModuleContainerWidget
+      id="moduleContainer"
+      backgroundColor="white"
+      isGlobalWidgetContainer={true}
+    >
+      <Navigation
+        id="navigation1"
+        itemMode="static"
+        retoolFileObject={{ ordered: [] }}
+        retoolStorageFileId="6c45f8ae-e855-46ce-bc61-de9e727be8f8"
+        src="https://retool-edge.com/83d4d9a1f1ecd17d111e6b4a014043cd.svg"
+        srcType="retoolStorageFileId"
+        style={{ ordered: [{ background: "rgba(64, 113, 199, 0)" }] }}
+      >
+        <Option
+          id="cd6f2"
+          appTarget="b3df2522-46fc-11ef-86f4-43d0a8c572db"
+          icon="bold/interface-home-3"
+          iconPosition="left"
+          itemType="app"
+        />
+        <Option
+          id="23602"
+          appTarget="8c08168a-4855-11ef-85bc-134f1376be01"
+          disabled={false}
+          hidden={false}
+          icon="bold/interface-add-2"
+          iconPosition="left"
+          itemType="app"
+          key="5eb5d6fd-031b-4db7-94bd-4b6f03e087a6"
+        />
+        <Option
+          id="7e0c7"
+          appTarget="6a0e3eda-4867-11ef-93dc-13ac482a1127"
+          disabled={false}
+          hidden={false}
+          icon="bold/interface-user-multiple"
+          iconPosition="left"
+          itemType="app"
+          label="Instructors"
+        />
+      </Navigation>
+    </ModuleContainerWidget>
+  </Frame>
+</App>
