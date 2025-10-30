@@ -17,11 +17,7 @@
       label="Search"
       placeholder="Search in table"
     />
-    <Button
-      id="button2"
-      style={{ map: { background: "danger" } }}
-      text="Button"
-    >
+
       <Event
         event="click"
         method="setHidden"
