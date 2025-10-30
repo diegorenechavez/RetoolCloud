@@ -19,7 +19,7 @@
     />
     <Button
       id="button2"
-      style={{ map: { background: "success" } }}
+      style={{ map: { background: "danger" } }}
       text="Button"
     >
       <Event
