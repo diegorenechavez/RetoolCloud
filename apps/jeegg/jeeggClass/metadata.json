@@ -1,0 +1,37 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "3a92d072-49e2-11ef-a9e9-83c9fad8338a",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "fetchAllCourses": {
+          "array": []
+        },
+        "coursesTable": {
+          "array": []
+        },
+        "numCourses": {
+          "array": []
+        },
+        "enrollmentData": {
+          "array": []
+        },
+        "reviewsTable": {
+          "array": []
+        },
+        "reviews": {
+          "array": []
+        },
+        "analysis": {
+          "array": []
+        },
+        "editCourse": {
+          "array": []
+        }
+      }
+    },
+    "version": "3.295.0",
+    "experimentalDataTabEnabled": true
+  }
+}
