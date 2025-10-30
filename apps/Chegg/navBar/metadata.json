@@ -1,0 +1,12 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "7c83f2f8-47b8-11ef-ad77-d3ab6a4c7e02",
+  "appTemplate": {
+    "appThemeId": 101410,
+    "isGlobalWidget": true,
+    "appThemeName": "Chegg",
+    "version": "3.72.0",
+    "experimentalDataTabEnabled": true
+  }
+}
